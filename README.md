@@ -14,7 +14,9 @@ If you are MAC Silicon user, Please use the following repo.
 ## Setup Prerequisites
 
 - A working Vagrant setup using Vagrant + VirtualBox
+  
 https://developer.hashicorp.com/vagrant/install
+
 https://www.virtualbox.org/wiki/Downloads
 
 Here is the high level workflow.
